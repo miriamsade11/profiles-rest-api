@@ -129,6 +129,9 @@ dmypy.json
 # Log files (if you are creating logs in debug mode, uncomment this)
 # *.logs
 
+# secret settings
+secret_settings.py
+
 ### Vagrant Patch ###
 *.box
 
